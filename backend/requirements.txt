@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
+google-auth==2.29.0
+python-multipart==0.0.9
